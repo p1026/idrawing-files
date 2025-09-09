@@ -58,8 +58,8 @@
         <mxCell id="5pPO6AIzBDBEHd77kNwY-42" value="阿里云主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pPO6AIzBDBEHd77kNwY-43" value="阿里云主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-43" value="独立服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
