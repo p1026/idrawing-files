@@ -52,6 +52,12 @@
         <mxCell id="5pPO6AIzBDBEHd77kNwY-40" value="rabbitmq" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="390" y="890" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1000" width="590" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-42" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
