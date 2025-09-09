@@ -17,7 +17,10 @@
           <mxGeometry x="510" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-29" value="Ajax交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="630" width="500" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
