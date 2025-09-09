@@ -43,6 +43,9 @@
         <mxCell id="5pPO6AIzBDBEHd77kNwY-32" value="Get请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5pPO6AIzBDBEHd77kNwY-34" target="5pPO6AIzBDBEHd77kNwY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="730" width="590" height="100" as="geometry" />
         </mxCell>
@@ -54,6 +57,9 @@
         </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-37" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5pPO6AIzBDBEHd77kNwY-38" target="5pPO6AIzBDBEHd77kNwY-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="880" width="590" height="100" as="geometry" />
@@ -83,6 +89,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="820" as="sourcePoint" />
+            <mxPoint x="560" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="820" as="sourcePoint" />
             <mxPoint x="560" y="770" as="targetPoint" />
