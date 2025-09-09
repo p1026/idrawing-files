@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5pPO6AIzBDBEHd77kNwY-46" target="5pPO6AIzBDBEHd77kNwY-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="490" width="590" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5pPO6AIzBDBEHd77kNwY-30" target="5pPO6AIzBDBEHd77kNwY-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="610" width="590" height="90" as="geometry" />
@@ -27,6 +33,9 @@
         </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-29" value="Ajax交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pPO6AIzBDBEHd77kNwY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5pPO6AIzBDBEHd77kNwY-31" target="5pPO6AIzBDBEHd77kNwY-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5pPO6AIzBDBEHd77kNwY-31" value="POST请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="120" height="60" as="geometry" />
